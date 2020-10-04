@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZSEjB1cDGt8leDsLYysqjCBA57yG7BTtoAjRySsd9Co0Y5G152QvybYm7zgPBuI5JsRrWaQogL8oMZoYa/kXYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francesco\\source\\repos\\MovieRating\\MovieRating\\MovieRating.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francesco\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

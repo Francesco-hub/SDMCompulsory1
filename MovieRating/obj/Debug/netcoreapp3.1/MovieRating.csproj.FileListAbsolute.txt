@@ -1,0 +1,15 @@
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.exe
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csprojAssemblyReference.cache
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.AssemblyInfoInputs.cache
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.AssemblyInfo.cs
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.deps.json
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.runtimeconfig.json
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.runtimeconfig.dev.json
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.dll
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.pdb
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csproj.CopyComplete
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.dll
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.pdb
+C:\Users\Francesco\source\repos\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.genruntimeconfig.cache
