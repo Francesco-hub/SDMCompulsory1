@@ -2,7 +2,7 @@ language: csharp
 mono: none
 dotnet: 3.1
 solution: MovieRating.sln
-
+if: branch = master
 script:
  - dotnet restore
  - dotnet build
