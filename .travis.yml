@@ -1,0 +1,9 @@
+language: csharp
+mono: none
+dotnet: 3.0
+solution: MovieRating.sln
+
+script:
+ - dotnet restore
+ - dotnet build
+ - dotnet test TestMovieRating/TestMovieRating.csproj
