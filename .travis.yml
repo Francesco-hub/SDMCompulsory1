@@ -2,8 +2,8 @@ language: csharp
 mono: none
 dotnet: 3.1
 solution: MovieRating.sln
-if: branch = master
 script:
+if: branch = master
  - dotnet restore
  - dotnet build
  - dotnet test TestMovieRating/TestMovieRating.csproj
