@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MovieRating.Entities
 {
-    public class Rating
+   / public class Rating
     {
         public int Reviewer { get; set; }
         public int Movie { get; set; }
