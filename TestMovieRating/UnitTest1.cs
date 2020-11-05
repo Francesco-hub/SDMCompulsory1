@@ -14,7 +14,7 @@ namespace TestMovieRating
         {
             IRatingRepository _rtngRepo = new RatingRepository(true);
             double actualResult = _rtngRepo.GetNumberOfReviewsFromReviewer(1);
-            Assert.AreEqual(2,actualResult);
+            Assert.AreEqual(25,actualResult);
         }
 
         [TestMethod]
